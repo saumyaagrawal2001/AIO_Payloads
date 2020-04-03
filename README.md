@@ -1,4 +1,7 @@
 
+# Note
+Do NOT UPLOAD THIS to VIRUSTOTAL
+
 # AIO_Payloads
 
 This is a simple tool or a script that saves time and generates payload using metasploit.
