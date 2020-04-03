@@ -19,7 +19,7 @@ https://github.com/saumyaagrawal2001/AIO_Payloads.git
 
 ```
 
-cd Duck_Droid
+cd AIO_Payloads
 python3 AIO_Payloads.py
 
 ```
