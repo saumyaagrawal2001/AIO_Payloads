@@ -10,6 +10,7 @@ This is lot of helpful.
 apt update
 apt upgrade -y
 pkg install python -y
+https://github.com/saumyaagrawal2001/AIO_Payloads.git
 
 
 ```
